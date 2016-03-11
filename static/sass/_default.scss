@@ -219,10 +219,20 @@ html {
 // Header Styling
 //-----------------
 .home>header {
-    height: 500px;
-
+    height: 400px;
+    .title{
+        width: auto !important;
+        margin-left: 10% !important;
+    }
     .outer-wrapper {
         padding: 120px 0 !important;
+    }
+}
+
+header.global{
+    height : 93px !important;
+    h1.logo{
+        margin: -10px 39px 0 0 !important;
     }
 }
 

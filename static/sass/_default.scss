@@ -221,8 +221,9 @@ html {
 .home>header {
     height: 400px;
     .title{
-        width: auto !important;
-        margin-left: 10% !important;
+        display: none !important;
+        // width: auto;
+        // margin-left: 10%;
     }
     .outer-wrapper {
         padding: 120px 0 !important;

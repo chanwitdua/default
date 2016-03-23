@@ -213,7 +213,6 @@ html {
 //-----------------
 .home>header {
     height: 400px;
-    background : #fff;
     border: none;
     .title{
         display: none !important;
@@ -227,6 +226,7 @@ html {
 
 header.global{
     height : 93px !important;
+    background: #fff;
     h1.logo{
         margin: -10px 39px 0 0 !important;
     }

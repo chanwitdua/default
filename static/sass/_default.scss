@@ -212,7 +212,7 @@ html {
 // Header Styling
 //-----------------
 .home>header {
-    height: 400px;
+    height: 166.233px;
     border: none;
     .title{
         display: none !important;
@@ -225,7 +225,9 @@ html {
 }
 
 header.global{
-    height : 93px !important;
+    height : 92px !important;
+    border: none !important;
+    box-shadow: none !important;
     background: #fff !important;
     h1.logo{
         margin: -10px 39px 0 0 !important;

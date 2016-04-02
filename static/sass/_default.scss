@@ -249,7 +249,7 @@ header.global{
 //-----------------
 .wrapper-footer {
     box-shadow: none !important;
-    
+    background: #404040 !important;
     footer {
         max-width: 1180px;
         margin: 0 auto;
@@ -259,10 +259,14 @@ header.global{
             float: left;
 
             .nav-colophon li {
+                a {
+                    color: #fff;  
+                }
                 display: inline-block;
                 height: 35px;
                 float: left;
                 margin: 0 20px 20px 0;
+            
             }
         }
 

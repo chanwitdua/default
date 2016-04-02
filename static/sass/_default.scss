@@ -248,6 +248,7 @@ header.global{
 // Footer Styling
 //-----------------
 .wrapper-footer {
+    color: #fff;
     box-shadow: none !important;
     background: #404040 !important;
     footer {
@@ -271,6 +272,9 @@ header.global{
         }
 
         .references {
+            a {
+                color: #fff;
+            }
             width: 15%;
             float: right;
         }

@@ -271,6 +271,16 @@ header.global{
 	    color: #888 !important;
 	    font-size: 16px !important;
         }
+        .text-a-lightgreen{
+	    color: #72AB44;
+	    font-size: 1.3em;
+	    text-decoration: underline;
+        }
+
+        .text-a-lightgreen:HOVER{
+	    color: #72AB44 !important;
+        }
+
         .nounderline{
 	    text-decoration: none !important;
         }

@@ -267,6 +267,17 @@ header.global{
             color: #2C99CE;
             font-size: 1.5em;
         }
+        .text-normal-gray-small{
+	    color: #888;
+	    font-size: 16px;
+        }
+        .nounderline{
+	    text-decoration: none;
+        }
+
+        .nounderline:HOVER{
+	    text-decoration: none !important;
+        }
         max-width: 1180px;
         margin: 0 auto;
 

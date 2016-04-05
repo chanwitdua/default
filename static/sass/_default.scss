@@ -212,8 +212,8 @@ html {
 // Header Styling
 //-----------------
 .home>header {
-    height: 164px;
-    border: none;
+    height: 164px !important;
+    border: none !important;
     .title{
         display: none !important;
         // width: auto;

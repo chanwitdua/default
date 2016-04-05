@@ -252,6 +252,21 @@ header.global{
     box-shadow: none !important;
     background: #404040 !important;
     footer {
+        .border-right-green-dotted {
+            border-right: 2px dotted;
+            margin-top: 30px;
+            border-right-color: #678f48;
+            min-height: 115px;
+        }
+        .border-right-green-dotted a{
+	    padding-left: 10px;
+	    display: block;
+	    margin-bottom: 10px;
+        }
+        .text-h2-lightblue-small {
+            color: #2C99CE;
+            font-size: 1.5em;
+        }
         max-width: 1180px;
         margin: 0 auto;
 
